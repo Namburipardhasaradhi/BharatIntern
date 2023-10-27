@@ -1,0 +1,21 @@
+<resources>
+    <string name="background_image_description">Background Image Description</string>
+    <string name="dropdown_arrow_description">Dropdown Arrow Description</string>
+
+
+    <string name="app_name">tempconvertor</string>
+    <string name="appTitle">Temperature Convertor</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="textResult">0.0</string>
+    <string name="textresultType">Celsius</string>
+    <string name="celsius">Celsius</string>
+    <string name="select_unit">Select Unit</string>
+    <string name="hint_temperature">32</string>
+
+
+
+    <string-array name="temperature_units">
+        <item>Fahrenheit</item>
+        <item>Celsius</item>
+    </string-array>
+</resources>
